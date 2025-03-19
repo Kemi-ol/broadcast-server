@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BroadcastServer\\BroadcastServer.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "FrontEndApp\\FrontEndApp.esproj",
+        "Action": "Start",
+        "DebugTarget": "Launch Program"
+      }
+    ]
+  }
+]
